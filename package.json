@@ -1,0 +1,28 @@
+{
+  "name": "Request as JSON",
+  "version": "1.0.0",
+  "description": "This is to practice how to use npm init",
+  "main": "request-as-json.js",
+  "dependencies": {
+    "request": "^2.73.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takanarisasaki/node-workshop-2.git"
+  },
+  "keywords": [
+    "requests",
+    "json",
+    "demo"
+  ],
+  "author": "Takanari Sasaki <takanari.s@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takanarisasaki/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/takanarisasaki/node-workshop-2#readme"
+}
